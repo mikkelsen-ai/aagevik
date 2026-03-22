@@ -13,13 +13,12 @@ import { Testimonials } from '@/components/sections/Testimonials'
 import { About } from '@/components/sections/About'
 import { Contact } from '@/components/sections/Contact'
 import { Footer } from '@/components/sections/Footer'
-import { StickyMobileCta } from '@/components/sections/StickyMobileCta'
 
 export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="pb-16 sm:pb-0">
+      <main>
         <Hero />
         <TrustBar />
         <FeaturedTestimonial />
@@ -33,7 +32,6 @@ export default function Home() {
         <Contact />
       </main>
       <Footer />
-      <StickyMobileCta />
     </>
   )
 }
