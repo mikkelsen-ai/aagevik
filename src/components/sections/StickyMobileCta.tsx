@@ -19,7 +19,7 @@ export function StickyMobileCta() {
     >
       <a
         href="tel:92816022"
-        className="flex items-center justify-center gap-2.5 w-full bg-[#c28009] hover:bg-[#9e6807] active:bg-[#7d5306] py-4 text-white font-semibold text-base transition-colors shadow-[0_-4px_20px_rgba(194,128,9,0.4)]"
+        className="flex items-center justify-center gap-2.5 w-full bg-[#4ade80] hover:bg-[#22c55e] active:bg-[#16a34a] py-4 text-green-950 font-semibold text-base transition-colors shadow-[0_-6px_24px_rgba(74,222,128,0.55),0_-2px_8px_rgba(34,197,94,0.35)]"
       >
         <Phone className="h-5 w-5" />
         Ring 928 16 022 – gratis befaring
