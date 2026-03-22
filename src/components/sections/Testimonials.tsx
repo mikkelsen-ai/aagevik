@@ -95,9 +95,6 @@ export function Testimonials() {
                   ? 'border-[#1e6ec8]/40 bg-white shadow-[0_0_40px_rgba(45,107,46,0.08)]'
                   : 'border-[#cce0cc] bg-white'
               }`}>
-                {/* Green quote */}
-                <div className="font-display text-4xl leading-none text-[#1e6ec8]/20 mb-3 select-none">"</div>
-
                 <Stars />
 
                 <blockquote className="mt-3 flex-1 text-sm text-[#5a6e5a] leading-relaxed italic">
