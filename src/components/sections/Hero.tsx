@@ -56,7 +56,7 @@ export function Hero() {
             className="mt-5 text-lg text-white/75 sm:text-xl leading-relaxed"
             style={{ animation: 'fadeUp 0.5s ease 0.2s forwards', opacity: 0 }}
           >
-            Erfaren tømrer i Bergen · 20+ år · Lokalt eiet
+            Erfaren tømrer i Bergen · 20+ år
           </p>
 
           {/* CTAs */}
@@ -85,7 +85,7 @@ export function Hero() {
             className="mt-4 text-sm text-white/50"
             style={{ animation: 'fadeUp 0.5s ease 0.4s forwards', opacity: 0 }}
           >
-            Svarer innen 24 timer · Ingen binding
+            Svarer innen 24 timer · Ingen forpliktelser
           </p>
         </div>
       </div>

@@ -66,7 +66,7 @@ export function Footer() {
             © {year} Åge Vik Tømrer · Bergen
           </p>
           <p className="text-xs text-[#8fa98f]">
-            Lokalt eiet og drevet siden 2003
+            Drevet siden 2003
           </p>
         </div>
       </div>
